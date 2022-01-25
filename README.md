@@ -1,2 +1,1 @@
-# curso-front-end
-Curso Ebac
+# Desenvolvedor Full Stack Python - EBAC
