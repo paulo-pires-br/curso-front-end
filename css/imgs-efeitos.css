@@ -1,0 +1,45 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+
+.article-imagens p{
+  text-align: center;
+  font-weight: bold;
+}
+
+.foto{
+  border-radius: 10px;
+}
+
+.foto4{
+  filter: grayscale(1);
+}
+
+.foto4:hover {
+  filter: grayscale(0);  
+}
+
+.foto1{
+  filter: blur(10px);
+}
+
+.foto1:hover{
+  filter: blur(0);
+}
+
+.foto2{
+  filter: contrast(0%);
+}
+
+.foto2:hover{
+  filter: contrast(100%);
+}
+
+.foto3{
+  filter: sepia(100%);
+}
+
+.foto3:hover{
+  filter: sepia(0%);
+}
